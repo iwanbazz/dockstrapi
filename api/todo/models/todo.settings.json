@@ -8,12 +8,5 @@
     "increments": true,
     "timestamps": true
   },
-  "attributes": {
-    "title": {
-      "type": "string"
-    },
-    "done": {
-      "type": "boolean"
-    }
-  }
+  "attributes": {}
 }
